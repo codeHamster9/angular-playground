@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"$tras",
+				"$transclude"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"json",
+				"JsonTree: Show Tree"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"grun",
+				"Grunt: Kill Running Tasks"
+			]
+		],
+		"width": 664.0
+	},
+	"console":
+	{
+		"height": 551.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/projects/misc/angular-playground"
+	],
+	"file_history":
+	[
+		"/D/projects/misc/angular-playground/angular-playground.sublime-project"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"-*vendor,*.html,*.js,*.scss",
+			"-*vendor",
+			"-/*vendor",
+			"-*/vendor",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"server",
+			"appConfig",
+			"$watch",
+			"$document",
+			"$transclude",
+			"EricomResources",
+			"ResList",
+			"Reslist",
+			"countTo",
+			"loggedUsers",
+			"count-to=\"resource.DATA.NumerOfLoggedInUsers\"",
+			"digit1",
+			"source",
+			"REST_PATH",
+			"https://uitest.ericom.com:8022",
+			"srv",
+			"ui.router",
+			"title",
+			"class=\"Flex__inline fs6",
+			"ng-if=\"module.sizeY",
+			"<div class=\"module-content fade-anim ng-scope\" ng-if=\"module.sizeY > ",
+			"loggedInUsers",
+			"EricomDashboard",
+			"EricomResources"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 217.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 603.0
+	},
+	"project": "angular-playground.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"overl-dir",
+				"app\\scripts\\components\\preview\\preview-overlay\\preview-overlay-direcive.js"
+			],
+			[
+				"app",
+				"public\\app\\appModule.js"
+			],
+			[
+				"resource-ctrl",
+				"public\\app\\resources\\controllers\\resources-ctrl.js"
+			],
+			[
+				"appmo",
+				"public\\app\\appModule.js"
+			],
+			[
+				"sert",
+				"public\\template\\common\\serverIsDownModal.tpl.html"
+			],
+			[
+				"resource",
+				"public\\app\\resources\\resources.js"
+			],
+			[
+				"boot",
+				"public\\app\\appBootstrap.js"
+			],
+			[
+				"appmod",
+				"public\\app\\appModule.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\projects\\ext\\Ui-Angularwebbapp\\nip.sublime-project"
+			],
+			[
+				"n",
+				"D:\\projects\\ext\\Ui-Angularwebbapp\\nip.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

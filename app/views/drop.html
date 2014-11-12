@@ -1,0 +1,20 @@
+<div class="grid">
+    <div class="col-2-3">
+        <article class="module">
+            stuff
+        </article>
+        <article class="module" ng-list-b>
+            <ul class="app-container" ng-repeat="item in listB">{{item.id}}>
+                <li>ng-repeat="item in listB">{{item.id}}</li>
+            </ul>
+            heerre
+        </article>
+    </div>
+    <div class="col-1-3">
+        <aside class="module" ng-list-a listA=listA>
+            <ul class="app-container" ui-sortable="" ng-model="listA">
+                <li ng-repeat="item in listA">{{item.id}}</li>
+            </ul>
+        </aside>
+    </div>
+</div>

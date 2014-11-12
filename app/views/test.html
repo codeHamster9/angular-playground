@@ -1,0 +1,36 @@
+<div class="container">
+    <header>
+        <ul>
+            <li class=".gradient-fill-9">Manage</li>
+            <li class=".gradient-fill-9">Import</li>
+            <li class=".gradient-fill-9">Analyze</li>
+            <!-- <li class=".gradient-fill-9">Relevance setup</li> -->
+            <li class=".gradient-fill-9">Export</li>
+        </ul>
+        <div class="fill-21"></div>
+        <!-- <span class="grey"></span> -->
+    </header>
+    <div class="sidebar">
+        <ul>
+            <li ng-repeat="title in awesomeThings" ng-drag="true" ng-drag-data="{obj}" ng-drag-success="dragComplete($data,$event)" ng-click="setActive($index)" ng-class="{'selected arrow-right':active==$index}">{{title}}</li>
+            <!-- <li class="selected arrow-right">{{awesomeThings[1]}}</li> -->
+            <!-- <li class="selected"><div class="triangle-right"><div></div></div>Results</li> -->
+        </ul>
+    </div>
+    <div class="main">
+        <div>
+            <div class="shape-1">
+                <div ng-repeat="item in list">
+                    <div class=" shape-2 " ng-click="arrowClick($index)">
+                        <div ng-class="{'arrow-down-small':show==$index, 'arrow-right-small':show!=$index} "></div>
+                        <span class="last-task-status ">{{item}}</span>
+                    </div>
+                    <div ng-drop="true" ng-drop-success="onDropComplete($data,$event)" 
+                    ng-show="show==$index " class="shape-3 "></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <footer class="gradient "></footer>
+</div>
